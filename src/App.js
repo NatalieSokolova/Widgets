@@ -1,5 +1,4 @@
-import React, { useState } from "react";
-import Accordion from "./components/Accordion";
+import React from "react";
 import Translate from "./components/Translate";
 
 const items = [
